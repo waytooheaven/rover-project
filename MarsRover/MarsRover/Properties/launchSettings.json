@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarsRover": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
